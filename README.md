@@ -31,7 +31,7 @@ The results of the multi-channels analysis will be displayed as shown below.
 To install our software, you can clone this repository into your computer using Git or download the files directly from GitLab.
 
 ```
-git clone https://github.com/Simalatsar/GAM-GUI
+git clone https://github.com/Simalatsar/GAM-GUI.git
 ```
 
 In the "Installer files" folder, you will find an executable software that will guide you through the installation process using the MATLAB application installer.
