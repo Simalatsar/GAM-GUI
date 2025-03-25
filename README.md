@@ -36,6 +36,12 @@ https://drive.google.com/file/d/11UJRyZ4_80gFr1NF0u6SX4pSwJJkp2wg/view?usp=drive
 
 If you'd like to try the MAC version, feel free to contact us on LinkedIn (details below).
 
+By following this link you can download an EDF file to play with:
+
+```
+https://drive.google.com/file/d/1xdBpyYuLzJPhQxPVC6wx1_2HO5PIn--k/view?usp=drive_link
+```
+
 ### Usage
 
 Once you launch the software, you have the option to use the "Set path to file(s)" feature, which enables you to choose the specific file(s) you wish to analyze. By clicking on the "Load EEG" button, the software will extract the EEG data and you will gain access to various signal processing options. You can use the "Plot all signal" button to visualize the results effectively.
